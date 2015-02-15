@@ -1,0 +1,1 @@
+# grunt-gather-angular-template
